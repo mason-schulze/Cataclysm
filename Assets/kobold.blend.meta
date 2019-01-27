@@ -6,9 +6,51 @@ ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: abdomen
+    100004: arm2_l
+    100006: arm2_r
+    100008: arm_l
+    100010: arm_r
+    100012: Armature
+    100014: chest
+    100016: Cube
+    100018: foot_l
+    100020: foot_r
+    100022: head
+    100024: kneck
+    100026: leg2_l
+    100028: leg2_r
+    100030: leg3_l
+    100032: leg3_r
+    100034: leg_l
+    100036: leg_r
+    100038: tail
+    100040: tail1
     400000: //RootNode
+    400002: abdomen
+    400004: arm2_l
+    400006: arm2_r
+    400008: arm_l
+    400010: arm_r
+    400012: Armature
+    400014: chest
+    400016: Cube
+    400018: foot_l
+    400020: foot_r
+    400022: head
+    400024: kneck
+    400026: leg2_l
+    400028: leg2_r
+    400030: leg3_l
+    400032: leg3_r
+    400034: leg_l
+    400036: leg_r
+    400038: tail
+    400040: tail1
     2300000: //RootNode
+    2300002: Cube
     3300000: //RootNode
+    3300002: Cube
     4300000: Cube
     7400000: Default Take
     9500000: //RootNode
